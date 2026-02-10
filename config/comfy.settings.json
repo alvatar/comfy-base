@@ -1,0 +1,8 @@
+{
+  "Comfy.VueNodes.Enabled": true,
+  "Comfy.Load3D.3DViewerEnable": true,
+  "Comfy.TutorialCompleted": true,
+  "KJNodes.browserStatus": true,
+  "Comfy.Minimap.Visible": false,
+  "Comfy.Workflow.ShowMissingModelsWarning": false
+}
